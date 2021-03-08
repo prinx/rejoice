@@ -1,4 +1,4 @@
-> This repo has been move to the [Rejoice Framework](https://github.com/rejoice-framework/rejoice) organisation.
+> This repo has been moved to the [Rejoice Framework](https://github.com/rejoice-framework/rejoice) organisation.
 
 <p align="center"><img src="https://github.com/prinx/rejoice-docs/raw/master/assets/images/logo.png" width="400"></p>
 
